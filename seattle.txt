@@ -1,0 +1,28 @@
+>Apartment
+Bright & Airy Queen Anne Apartment:Beautiful, hypoallergenic apartment in an extremely safe, quiet and pedestrian-friendly section of Queen Anne.  A leafy-green location that puts the best of Seattle at your doorstep.
+150:4
+2:5:45
+Queen Anne Chateau:A charming apartment that sits atop Queen Anne hill, northwest facing bay windows with warm afternoon light setting over the Olympic Cascades. The space is perfect for one or two.
+120:2
+3:5:40
+Airy + Bright Queen Anne Apartment:Beautiful apartment in an extremely safe, quiet and pedestrian-friendly section of Queen Anne.  A leafy-green location that puts the best of Seattle at your doorstep.
+145:4
+3:7:66
+Elegance in Historic Queen Anne:Enjoy our amazing, updated & modern design cottage, located blocks from many of Seattle's best sites! Located on Queen Anne Hill, one of Seattle's most sought-after neighborhoods.
+175:4
+3:6:45
+<
+>House
+New Modern House-Amazing water view:New modern house built in 2013.  Spectacular sunset/water views and light, rooftop deck and lounge area, located in highly desirable Queen Anne neighborhood.
+350:7
+hot tub, 5 bedrooms, gourmet kitchen.  Perfect for 2-3 families, walk to downtown.:500:Y
+Charming craftsman 3 bdm house:Cozy family craftman house in beautiful neighborhood of Queen Anne, Seattle…Perfect location!
+250:5
+Walking distance to Whole Foods Market, a 7 minute drive from the Seattle Center (Space Needle, chihuly garden and glass, Children's Museum, Key Arena):500:Y
+Upper Queen Anne Craftsman House:Beautifully furnished, cozy 1 bedroom mid century modern Craftsman house in Upper Queen Anne.
+175:3
+850 sqft - queen sz bed, large closet, huge dining table, comfy living room, bathtub, fully furnished kitchen, outdoor patio.:400:N
+Lovely Queen Anne home:Welcome to Seattle! Enjoy your stay in a  turn-of-the-century Queen Anne home. Lovely setting in the heart of the city. Cosy up with a cup of coffee in the window seat or enjoy all of the fabulous Seattle restaurants, cafes and shops 1 block away.
+200:4
+The house is across the street from a soccer field and park making it a perfect location for kids. Start your morning with an El Diablo cafe and then explore Seattle. It's an easy bus ride to Pike Place Market and all that downtown Seattle has to offer. Close to Green Lake, the University District and Capital Hill.:350:N
+<

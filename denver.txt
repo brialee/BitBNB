@@ -1,0 +1,19 @@
+>Apartment
+Private and Cozy:You will enjoy your Denver visit in my one bedroom loft style apartment. It comfortably fits 2 people and pets are welcome.
+120:2
+1:15:0
+Spacious Sunnyside Apartment:Warm, open downstairs space with good light in fantastic Sunnyside. Large open living room with couch, desk, table, and chaise. Great for short or long-term stays!
+115:3
+1:7:15
+<
+>House
+Cozy home near Denver!:My 3-bedroom home is located in a quiet neighborhood close to Downtown Denver!
+230:4
+House comes with a black lab named Herman. He’s friendly, doesn’t smell and responds well to pats on the head and food.:200:Y
+Denver Digs:This very comfy home offers a relaxing backyard to unwind in, convenient to I-70 if you want to hit the slopes and close enough to ride your bike downtown.
+200:4
+Garage to store your bikes and to park your Subaru. 420 friendly.:175:Y
+Charming Sunnyside Cottage:Charming, bright, historic home in the Sunnyside neighborhood, blocks away from restaurants, bars and coffee shops on 44th. 
+200:4
+Easy access to Downtown Denver, minutes from I-25 and I-70. Fully equipped kitchen, huge yard and bikes included!:200:N
+<

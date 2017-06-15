@@ -1,0 +1,27 @@
+>Apartment
+New 1 Bedroom/Studio Apartment:Open concept,large bright studio apartment. Coffee shop downstairs, across the street from IGA grocery store. The apartment has a full kitchen including a dishwasher. Wifi included.
+140:2
+1:10:15
+Loft Apartment in East Village:Fabulous loft apartment 10 minutes from downtown Vancouver and walking distance to restaurants and shops on Hastings St. and trendy Commercial Drive. Close to shops, craft breweries, and more!
+150:2
+1:15:30
+<
+>House
+Pacific Spirit Park House:Beautiful, comfortable family home in a lovely location next to the Endowment Lands. 
+500:7
+Our property features 6 bedrooms, 5.5 bathrooms, living room, dining room, family room and chef's kitchen. Private sunny backyard with great play structure for kids.:500:Y
+Beautiful house near UBC:Newly renovated house with very large front and back yards.  Close to UBC,  Pacific Spirit Park, Fraser river. 
+350:4
+Very large living room with fireplace, den, library, modern kitchen, laundry in basement. 3 quiet bedroom.:120:N
+West Side Oasis:Stylish detail throughout. Step inside and instantly feel relaxed and at home!
+230:3
+Complimentary wifi, but I monitor the network and will block any site with “truth” in the URL.:50:Y
+<
+>Room
+Cozy Private Room:Single comfortable bed in private room.
+75:1
+Smoking free, no pets or stoners allowed.:50:N
+Large Sunny bedroom:A large sunny bedroom with access to a south facing roof deck. Morning sun through the east windows and a great queensize bed.
+88:1
+Small pets okay, but require an additional $50 on deposit.:45:N
+<

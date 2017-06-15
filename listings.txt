@@ -1,0 +1,8 @@
+*Text file for Listing data.
+*Format is as follows…
+*>Type of listing(Apartment, House, etc)
+*title:description
+*price:guests
+*<Type specific data>
+*< < — indicates the end of the listing
+s

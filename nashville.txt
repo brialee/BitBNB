@@ -1,0 +1,16 @@
+>Apartment
+5 miles from downtown Nashville.:One bedroom available.  5 mi. from downtown.  Clean
+120:3
+2:15:35
+<
+>House
+Beautiful 4 bedroom home:Beautiful 4 bedroom home in a quiet neighborhood.  Less than 15 minutes from downtown Nashville, the Nissan Stadium and more.
+250:4
+The home features hardwood and tile flooring throughout.:200:Y
+A Home Away From Home:Located in the "Enchanted Hills" of Nashville.  Minutes from downtown Nashville.
+350:5
+Plenty of Parking. Quiet Peaceful Neighborhood.  Easy access to all majors interstates.  Large Yard that Backs Up To Wooded Area.  Watch nature from the backyard - deer, turkey and more!:150:Y
+The Nashville Way:Single-dwelling 2-story home with full accommodations. Full eat-in upgraded Kitchen; Conversation-style living room.
+300:4
+Baths with towels, shampoos, soaps provided; flat-screen televisions; family lounge den; and a FULL-SERVICE HAIR CARE SALON INSIDE THE HOME! relax or barbeque on two grills.:175:N
+<
